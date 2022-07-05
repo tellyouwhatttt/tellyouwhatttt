@@ -11,4 +11,4 @@ Thanks!!
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tellyouwhatttt&theme=github_dark)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tellyouwhatttt)](https://github.com/tellyouwhatttt/github-readme-stats)
+
